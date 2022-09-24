@@ -1,0 +1,16 @@
+{
+  "name": "ufast88 ทางเข้า ufabet สมัครฟรี100% โบนัส150% ถอนได้100%",
+  "theme": "syntax",
+  "version": "1.0.741",
+  "description": "เว็บ UFA เป็นยังไงใครกันที่สามารถ เดิมพันบอลออนไลน์ได้บ้าง ?",
+  "keywords": [
+    "ทางเข้า ufabet ภาษาไทย",
+    "ufa88 ทางเข้า ufabet",
+    "ยูฟ่าเบท 88888"
+  ],
+  "repository": "https://github.com/ittirit720/ufast88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
